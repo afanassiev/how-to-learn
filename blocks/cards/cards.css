@@ -9,5 +9,5 @@
   margin: auto;
   display: grid;
   grid-template-columns: repeat(auto-fill, 240px);
-  grid-gap: 60px 100px;
+  grid-column-gap: 100px;
 }
